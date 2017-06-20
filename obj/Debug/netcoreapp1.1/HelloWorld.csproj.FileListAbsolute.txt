@@ -1,8 +1,0 @@
-C:\MarkStu\bin\Debug\netcoreapp1.1\HelloWorld.deps.json
-C:\MarkStu\bin\Debug\netcoreapp1.1\HelloWorld.runtimeconfig.json
-C:\MarkStu\bin\Debug\netcoreapp1.1\HelloWorld.runtimeconfig.dev.json
-C:\MarkStu\bin\Debug\netcoreapp1.1\HelloWorld.dll
-C:\MarkStu\bin\Debug\netcoreapp1.1\HelloWorld.pdb
-C:\MarkStu\obj\Debug\netcoreapp1.1\HelloWorld.AssemblyInfo.cs
-C:\MarkStu\obj\Debug\netcoreapp1.1\HelloWorld.dll
-C:\MarkStu\obj\Debug\netcoreapp1.1\HelloWorld.pdb
