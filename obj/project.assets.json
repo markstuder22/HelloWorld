@@ -9615,10 +9615,17 @@
     "version": "1.0.0",
     "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "projectUniqueName": "c:\\MarkStu\\HelloWorld.csproj",
       "projectName": "HelloWorld",
       "projectPath": "c:\\MarkStu\\HelloWorld.csproj",
       "outputPath": "c:\\MarkStu\\obj\\",
+=======
+      "projectUniqueName": "c:\\Hello World\\HelloWorld.csproj",
+      "projectName": "HelloWorld",
+      "projectPath": "c:\\Hello World\\HelloWorld.csproj",
+      "outputPath": "c:\\Hello World\\obj\\",
+>>>>>>> 18fc82a9e44c251458cc626a33c074b2ddc2d402
 =======
       "projectUniqueName": "c:\\Hello World\\HelloWorld.csproj",
       "projectName": "HelloWorld",
@@ -9631,7 +9638,11 @@
       ],
       "files": {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "lib/netcoreapp1.1/HelloWorld.dll": "c:\\MarkStu\\bin\\placeholder\\netcoreapp1.1\\HelloWorld.dll"
+=======
+        "lib/netcoreapp1.1/HelloWorld.dll": "c:\\Hello World\\bin\\placeholder\\netcoreapp1.1\\HelloWorld.dll"
+>>>>>>> 18fc82a9e44c251458cc626a33c074b2ddc2d402
 =======
         "lib/netcoreapp1.1/HelloWorld.dll": "c:\\Hello World\\bin\\placeholder\\netcoreapp1.1\\HelloWorld.dll"
 >>>>>>> 18fc82a9e44c251458cc626a33c074b2ddc2d402
