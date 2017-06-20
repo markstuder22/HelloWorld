@@ -27,6 +27,12 @@ namespace HelloWorld.Controllers
             return View();
         }
 
+        public IActionResult Special()
+        {
+            ViewData["Message"] = "Your contact page.";
+
+            return View();
+        }
         public IActionResult Error()
         {
             return View();

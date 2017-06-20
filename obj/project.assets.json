@@ -9614,16 +9614,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "c:\\Hello World\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\HelloWorld\\HelloWorld.csproj",
-      "outputPath": "C:\\HelloWorld\\obj\\",
+      "projectPath": "c:\\Hello World\\HelloWorld.csproj",
+      "outputPath": "c:\\Hello World\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/HelloWorld.dll": "C:\\HelloWorld\\bin\\placeholder\\netcoreapp1.1\\HelloWorld.dll"
+        "lib/netcoreapp1.1/HelloWorld.dll": "c:\\Hello World\\bin\\placeholder\\netcoreapp1.1\\HelloWorld.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
