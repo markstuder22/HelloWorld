@@ -203,3 +203,4 @@ Templates (Project)/Blank/null
 .vs/
 obj/HelloWorld.csproj.nuget.g.props
 obj/project.assets.json
+*.dll
