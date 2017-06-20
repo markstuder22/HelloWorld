@@ -9614,16 +9614,27 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Hello World\\HelloWorld.csproj",
       "projectName": "HelloWorld",
       "projectPath": "C:\\Hello World\\HelloWorld.csproj",
       "outputPath": "C:\\Hello World\\obj\\",
+=======
+      "projectUniqueName": "C:\\MarkStu\\HelloWorld.csproj",
+      "projectName": "HelloWorld",
+      "projectPath": "C:\\MarkStu\\HelloWorld.csproj",
+      "outputPath": "C:\\MarkStu\\obj\\",
+>>>>>>> 9fdca53ef365a4e7b52b363556bd4a9914018c21
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
+<<<<<<< HEAD
         "lib/netcoreapp1.1/HelloWorld.dll": "C:\\Hello World\\bin\\placeholder\\netcoreapp1.1\\HelloWorld.dll"
+=======
+        "lib/netcoreapp1.1/HelloWorld.dll": "C:\\MarkStu\\bin\\placeholder\\netcoreapp1.1\\HelloWorld.dll"
+>>>>>>> 9fdca53ef365a4e7b52b363556bd4a9914018c21
       },
       "frameworks": {
         "netcoreapp1.1": {
