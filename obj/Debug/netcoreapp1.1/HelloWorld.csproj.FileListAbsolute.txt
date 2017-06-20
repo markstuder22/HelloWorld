@@ -1,11 +1,3 @@
-C:\HelloWorld\bin\Debug\netcoreapp1.1\HelloWorld.deps.json
-C:\HelloWorld\bin\Debug\netcoreapp1.1\HelloWorld.runtimeconfig.json
-C:\HelloWorld\bin\Debug\netcoreapp1.1\HelloWorld.runtimeconfig.dev.json
-C:\HelloWorld\bin\Debug\netcoreapp1.1\HelloWorld.dll
-C:\HelloWorld\bin\Debug\netcoreapp1.1\HelloWorld.pdb
-C:\HelloWorld\obj\Debug\netcoreapp1.1\HelloWorld.AssemblyInfo.cs
-C:\HelloWorld\obj\Debug\netcoreapp1.1\HelloWorld.dll
-C:\HelloWorld\obj\Debug\netcoreapp1.1\HelloWorld.pdb
 C:\Hello World\bin\Debug\netcoreapp1.1\HelloWorld.deps.json
 C:\Hello World\bin\Debug\netcoreapp1.1\HelloWorld.runtimeconfig.json
 C:\Hello World\bin\Debug\netcoreapp1.1\HelloWorld.runtimeconfig.dev.json
