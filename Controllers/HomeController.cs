@@ -30,6 +30,7 @@ namespace HelloWorld.Controllers
         public IActionResult Special()
         {
             ViewData["Message"] = "Your contact page.";
+            ViewData["SpecialInfo"] = "From Mark.";
 
             return View();
         }

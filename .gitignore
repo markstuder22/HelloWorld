@@ -206,3 +206,6 @@ obj/project.assets.json
 *.dll
 *.props
 obj/project.assets.json
+*.pdb
+*.dll
+*.cache

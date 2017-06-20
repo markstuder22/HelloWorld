@@ -3,11 +3,7 @@
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
-<<<<<<< HEAD
-    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">c:\MarkStu\obj\project.assets.json</ProjectAssetsFile>
-=======
-    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">c:\Hello World\obj\project.assets.json</ProjectAssetsFile>
->>>>>>> 18fc82a9e44c251458cc626a33c074b2ddc2d402
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">C:\MarkStu\obj\project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\jnixon\.nuget\packages\</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
