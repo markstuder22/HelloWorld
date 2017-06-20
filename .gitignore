@@ -201,3 +201,5 @@ Templates (Project)/Blank/null
 
 # Visual Studio 2015 cache/options directory
 .vs/
+obj/HelloWorld.csproj.nuget.g.props
+obj/project.assets.json
