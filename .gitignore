@@ -209,3 +209,4 @@ obj/project.assets.json
 *.pdb
 *.dll
 *.cache
+bin/Debug/netcoreapp1.1/HelloWorld.dll
