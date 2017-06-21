@@ -27,10 +27,9 @@ namespace HelloWorld.Controllers
             return View();
         }
 
-        public IActionResult Special()
+        public IActionResult MarkInfo()
         {
-            ViewData["Message"] = "Your contact page.";
-            ViewData["SpecialInfo"] = "From Mark.";
+            ViewData["Message"] = "Your About Mark page.";
 
             return View();
         }
