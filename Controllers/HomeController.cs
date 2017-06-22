@@ -33,6 +33,12 @@ namespace HelloWorld.Controllers
 
             return View();
         }
+        public IActionResult JerryInfo()
+        {
+            ViewData["Message"] = "Your About Jerry page.";
+
+            return View();
+        }
         public IActionResult Error()
         {
             return View();

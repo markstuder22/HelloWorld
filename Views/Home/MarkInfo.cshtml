@@ -1,7 +1,12 @@
 ﻿@{
-    ViewData["Title"] = "About Mark";
+    ViewData["Title"] = "Mark Info";
 }
 <style>
+body {
+    background-color: #008080;
+    color: white;
+
+}
 .markLinks {
     color: black;
     text-decoration: none;
@@ -15,6 +20,8 @@
     color: white;
     background-color: lightskyblue;
     transition-duration: 500ms;
+    transition-property: all;
+    font-size: 26pt;
 }
 .markLinks:active {
     color: lightskyblue;
@@ -27,18 +34,24 @@
 ul {
     list-style-type: none;
 }
+table {
+    border: 2px solid red;
+}
+
 </style>
 
-<span><h1><strong>This is the page where you learn about Mark.</strong></h1></span>
-<span><h2>Here are some things that Mark is good at:</h2></span>
-<ul>
-    
-    <li class="listItem"><a href="https://en.wikipedia.org/wiki/Eating" class="markLinks">Eating</a></li>
-    <li class="listItem"><a href="https://en.wikipedia.org/wiki/Basketball" class="markLinks">Basketball</a></li>
-    <li class="listItem"><a href="https://en.wikipedia.org/wiki/Lacrosse"class="markLinks">Lacrosse</a></li>
-    <li class="listItem"><a href="http://www.music.com/" class="markLinks">Music</a></li>
-    <li class="listItem"><a href="https://www.microsoft.com/en-us" class="markLinks">Coding ;)</a></li> 
-</ul>
+<h1><strong>This is the page where you learn about Mark.</strong></h1>
+<h2>Here are some things that Mark is good at:</h2>
+<div>  
+    <ul>
+        
+        <li class="listItem"><a href="https://en.wikipedia.org/wiki/Eating" class="markLinks">Eating</a></li>
+        <li class="listItem"><a href="https://en.wikipedia.org/wiki/Basketball" class="markLinks">Basketball</a></li>
+        <li class="listItem"><a href="https://en.wikipedia.org/wiki/Lacrosse"class="markLinks">Lacrosse</a></li>
+        <li class="listItem"><a href="http://www.music.com/" class="markLinks">Music</a></li>
+        <li class="listItem"><a href="https://www.microsoft.com/en-us" class="markLinks">Coding ;)</a></li> 
+    </ul>
+</div>
 
 
 <!--<h2>@ViewData["Title"].</h2>
